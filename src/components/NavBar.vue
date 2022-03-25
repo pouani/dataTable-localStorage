@@ -2,11 +2,12 @@
     <div>
         <nav
       class="
-        container
+        container-fluid
         px-6
-        py-8
+        py-4
         mx-auto
         md:flex md:justify-between md:items-center
+        bg-blue-500
       "
     >
       <div class="flex items-center justify-between">
